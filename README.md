@@ -5,9 +5,9 @@ This is your README. READMEs are where you can communicate what your project is 
 Write your name on line 6, save it, and then head back to GitHub Desktop.
 Josephis K. Wade  Creator/ Developer/ Poject Manager
 
-Welcome to the EmPower1 Blockchain
+Welcome to the EmPower1Equalize Blockchain
 
-Thank you for downloading the Em-Power Blockchain software.
+Thank you for downloading the Em-Power1Equalize Blockchain software.
 
 Thank you for considering Em-Power1 Blockchain software. This software is designed to provide users with a secure and reliable platform for accessing and managing their cryptocurrency transactions. The software is built on a decentralized network of computers, providing users with the ability to securely store, send, and receive cryptocurrency. It also allows users to access a decentralized exchange, allowing them to easily trade their cryptocurrency for other cryptocurrencies or fiat currencies. Additionally, it provides users with advanced features such as smart contracts, multi-signature wallets, decentralized applications, and tokenization. We hope you enjoy using the Em-Power1 Blockchain software and we look forward to hearing from you with any feedback or suggestions.
 
